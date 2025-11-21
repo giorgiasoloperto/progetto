@@ -1,0 +1,25 @@
+[project]
+name = "ispettore-testi"
+version = "1.0.0"
+description = "Correttore automatico avanzato di testi italiani basato su RAG + LLM + SpellChecker."
+readme = "README.md"
+authors = [
+    { name = "Tuo Nome", email = "email@example.com" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+
+dependencies = [
+    "pyspellchecker",
+    "ollama"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.ispettore]
+# Configurazioni opzionali personalizzate (puoi modificarle liberamente)
+default_model = "llama3.2:3b-instruct-q4_0"
+rag_top_k = 3
+database_path = "database_testi.json"

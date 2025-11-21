@@ -1,0 +1,46 @@
+# -----------------------------
+# File di cache Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual environment
+# -----------------------------
+prog2111/
+
+# (Nel caso in futuro ne crei altri)
+venv/
+.env/
+.venv/
+
+# -----------------------------
+# File di log
+# -----------------------------
+*.log
+
+# -----------------------------
+# Configurazioni editor/IDE
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# File generati da sistema
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# File di test temporanei
+# -----------------------------
+*.tmp
+*.bak
+
+# -----------------------------
+# Token o config sensibili
+# -----------------------------
+*.env
+config.json
+secrets.json

@@ -1,0 +1,407 @@
+[
+  {
+    "sbagliato": "ciao mario volevo avissartti che facio tardi al lavorro perche ci sta un incidiente sula strada.",
+    "corretto": "Ciao Mario, volevo avvisarti che farò tardi al lavoro perché c’è un incidente sulla strada."
+  },
+  {
+    "sbagliato": "oggi o deciso che non andro a scuola perche mi sento un po male.",
+    "corretto": "Oggi ho deciso che non andrò a scuola perché mi sento un po' male."
+  },
+  {
+    "sbagliato": "ciao prof scusi se non o consegnato il compito in tempo ma il mio computer non funzionava bene",
+    "corretto": "Ciao Prof, mi scusi se non ho consegnato il compito in tempo, ma il mio computer non funzionava bene."
+  },
+  {
+    "sbagliato": "domani ci vediamo al bar alle 8 se per te va bene fami sapere",
+    "corretto": "Domani ci vediamo al bar alle 8, se per te va bene. Fammi sapere."
+  },
+  {
+    "sbagliato": "ieri siamo andati a mangiare una pizza era buonissima ma il servizio non erano tanto veloce",
+    "corretto": "Ieri siamo andati a mangiare una pizza: era buonissima, ma il servizio non era molto veloce."
+  },
+  {
+    "sbagliato": "ho visto il tuo messagio pero ero impegnato e non ho potutto rispondere",
+    "corretto": "Ho visto il tuo messaggio, però ero impegnato e non ho potuto rispondere."
+  },
+  {
+    "sbagliato": "stasera usciamo io e te dobbiamo parlare di una cosa importante che mi riguarda",
+    "corretto": "Stasera usciamo? Io e te dobbiamo parlare di una cosa importante che mi riguarda."
+  },
+  {
+    "sbagliato": "la riunione è stata rinviatta a martedi prossimo per problemi tecnicci",
+    "corretto": "La riunione è stata rinviata a martedì prossimo per problemi tecnici."
+  },
+  {
+    "sbagliato": "sono molto contento di averti rivisto doppo tanto tempo spero di rivederti presto",
+    "corretto": "Sono molto contento di averti rivisto dopo tanto tempo, spero di rivederti presto."
+  },
+  {
+    "sbagliato": "scusa se ti disturbo a quest'ora ma avrei bisogno di un favore se puoi",
+    "corretto": "Scusa se ti disturbo a quest'ora, ma avrei bisogno di un favore, se puoi."
+  },
+  {
+    "sbagliato": "loro sono andati a casa tua ma tu non c'eri quindi hanno aspettato un po e poi sono andati via",
+    "corretto": "Loro sono passati da casa tua, ma tu non c'eri; hanno aspettato un po', poi sono andati via."
+  },
+  {
+    "sbagliato": "ieri ho comprato un cellulare nuovo ma gia la batteria non dura niente",
+    "corretto": "Ieri ho comprato un cellulare nuovo, ma già la batteria non dura niente."
+  },
+  {
+    "sbagliato": "devo parlarti di una cosa che mi sta pesando da molto tempo pero non so come dirtelo",
+    "corretto": "Devo parlarti di una cosa che mi pesa da molto tempo, però non so come dirtelo."
+  },
+  {
+    "sbagliato": "oggi il tempo e brutto piove da stamattina e non sembra che migliora",
+    "corretto": "Oggi il tempo è brutto: piove da stamattina e non sembra che migliori."
+  },
+  {
+    "sbagliato": "non so cosa scrivere nella mail perche non sono mucho bravo con le parole",
+    "corretto": "Non so cosa scrivere nella mail perché non sono molto bravo con le parole."
+  },
+  {
+    "sbagliato": "ti volevo chiedere se puoi aiutarmi con l'esame che devo farlo settimana prossima",
+    "corretto": "Volevo chiederti se puoi aiutarmi con l'esame che devo sostenere la settimana prossima."
+  },
+  {
+    "sbagliato": "per favore ricordami di chiamare mia madre piu tardi che me lo scordo sempre",
+    "corretto": "Per favore ricordami di chiamare mia madre più tardi, che me lo dimentico sempre."
+  },
+  {
+    "sbagliato": "ieri sera ho visto un film molto bello pero il finale non mi ha piaciuto tanto",
+    "corretto": "Ieri sera ho visto un film molto bello, però il finale non mi è piaciuto molto."
+  },
+  {
+    "sbagliato": "sto cercando di mettermi in forma ma e dificile quando non hai tempo libero",
+    "corretto": "Sto cercando di rimettermi in forma, ma è difficile quando non hai tempo libero."
+  },
+  {
+    "sbagliato": "abbiamo deciso di fare una festa a sorpresa pero non dire niente a marco che sennò rovina tutto",
+    "corretto": "Abbiamo deciso di organizzare una festa a sorpresa, però non dire nulla a Marco, altrimenti rovina tutto."
+  },
+  {
+    "sbagliato": "ciao valeria volevo dirti che arrivo un po tardi oggi perche il treno era in ritardo",
+    "corretto": "Ciao Valeria, volevo dirti che arriverò un po' in ritardo oggi perché il treno era in ritardo."
+  },
+  {
+    "sbagliato": "non ho capito bene cosa devo fare nel progetto puoi spiegarmelo ancora",
+    "corretto": "Non ho capito bene cosa devo fare nel progetto; puoi spiegarmelo ancora?"
+  },
+  {
+    "sbagliato": "oggi ho dimenticato di comprare il latte e il pane mi dispiace",
+    "corretto": "Oggi ho dimenticato di comprare il latte e il pane, mi dispiace."
+  },
+  {
+    "sbagliato": "stasera voglio guardare un film magari con te se ti va",
+    "corretto": "Stasera voglio guardare un film, magari con te, se ti va."
+  },
+  {
+    "sbagliato": "per la riunione di ieri purtroppo non ero pronto ma adesso ho tutto pronto",
+    "corretto": "Per la riunione di ieri, purtroppo, non ero pronto, ma adesso ho tutto pronto."
+  },
+  {
+    "sbagliato": "oggi ho dimenticato di portare il libro a scuola scusa tanto",
+    "corretto": "Oggi ho dimenticato di portare il libro a scuola, scusa tanto."
+  },
+  {
+    "sbagliato": "non riesco a capire come funziona questo programma e mi sto confondendo",
+    "corretto": "Non riesco a capire come funziona questo programma e mi sto confondendo."
+  },
+  {
+    "sbagliato": "ciao anna puoi chiamarmi piu tardi che adesso sono impegnato",
+    "corretto": "Ciao Anna, puoi chiamarmi più tardi? Adesso sono impegnato."
+  },
+  {
+    "sbagliato": "mi dispiace se ieri non ho risposto al messagio ma ero occupato",
+    "corretto": "Mi dispiace se ieri non ho risposto al messaggio, ma ero occupato."
+  },
+  {
+    "sbagliato": "ieri ho provato a cucinare una torta pero e venuta bruciata",
+    "corretto": "Ieri ho provato a cucinare una torta, però è venuta bruciata."
+  },
+  {
+    "sbagliato": "stasera vorrei uscire ma non so se ci sono tutti a casa",
+    "corretto": "Stasera vorrei uscire, ma non so se ci sono tutti a casa."
+  },
+  {
+    "sbagliato": "ho visto il film che mi hai consigliato pero non mi e piaciuto molto",
+    "corretto": "Ho visto il film che mi hai consigliato, però non mi è piaciuto molto."
+  },
+  {
+    "sbagliato": "non so se posso venire domani perche ho gia un appuntamento",
+    "corretto": "Non so se posso venire domani perché ho già un appuntamento."
+  },
+  {
+    "sbagliato": "mi puoi aiutare con i compiti di matematica per favore",
+    "corretto": "Mi puoi aiutare con i compiti di matematica, per favore?"
+  },
+  {
+    "sbagliato": "oggi ho incontrato luigi e mi a detto che sara assente domani",
+    "corretto": "Oggi ho incontrato Luigi e mi ha detto che sarà assente domani."
+  },
+  {
+    "sbagliato": "scusa se ti disturbo ma devo parlarti di una cosa urgente",
+    "corretto": "Scusa se ti disturbo, ma devo parlarti di una cosa urgente."
+  },
+  {
+    "sbagliato": "non ho capito la lezione di oggi e devo rileggere gli appunti",
+    "corretto": "Non ho capito la lezione di oggi e devo rileggere gli appunti."
+  },
+  {
+    "sbagliato": "stasera voglio fare una passeggiata se il tempo lo permette",
+    "corretto": "Stasera voglio fare una passeggiata, se il tempo lo permette."
+  },
+  {
+    "sbagliato": "ciao luca volevo chiederti se puoi prestarmi il libro di storia",
+    "corretto": "Ciao Luca, volevo chiederti se puoi prestarmi il libro di storia."
+  },
+  {
+    "sbagliato": "ieri sera ho parlato con giulia e mi a raccontato tante cose interessanti",
+    "corretto": "Ieri sera ho parlato con Giulia e mi ha raccontato tante cose interessanti."
+  },
+  {
+    "sbagliato": "ho dimenticato di comprare il latte e il pane stamattina",
+    "corretto": "Ho dimenticato di comprare il latte e il pane stamattina."
+  },
+  {
+    "sbagliato": "mi puoi spiegare come si fa questo esercizio non capisco bene",
+    "corretto": "Mi puoi spiegare come si fa questo esercizio? Non capisco bene."
+  },
+  {
+    "sbagliato": "oggi pomeriggio devo andare dal dentista quindi non posso venire",
+    "corretto": "Oggi pomeriggio devo andare dal dentista, quindi non posso venire."
+  },
+  {
+    "sbagliato": "stasera guardo la partita con marco se vuole venire anche lui",
+    "corretto": "Stasera guardo la partita con Marco, se vuole venire anche lui."
+  },
+  {
+    "sbagliato": "non ho ancora finito il lavoro che mi hai chiesto ieri",
+    "corretto": "Non ho ancora finito il lavoro che mi hai chiesto ieri."
+  },
+  {
+    "sbagliato": "ciao ti scrivo per dirti che ho avuto un problema con il computer",
+    "corretto": "Ciao, ti scrivo per dirti che ho avuto un problema con il computer."
+  },
+  {
+    "sbagliato": "ho provato a chiamarti ma non rispondevi quindi ti mando un messaggio",
+    "corretto": "Ho provato a chiamarti, ma non rispondevi; quindi ti mando un messaggio."
+  },
+  {
+    "sbagliato": "oggi sono molto stanco perche ieri sera ho dormito poco",
+    "corretto": "Oggi sono molto stanco perché ieri sera ho dormito poco."
+  },
+  {
+    "sbagliato": "mi dispiace per il ritardo nella risposta ero impegnato tutto il giorno",
+    "corretto": "Mi dispiace per il ritardo nella risposta, ero impegnato tutto il giorno."
+  },
+  {
+    "sbagliato": "stasera voglio cucinare qualcosa di speciale pero non so cosa fare",
+    "corretto": "Stasera voglio cucinare qualcosa di speciale, però non so cosa fare."
+  },
+  {
+    "sbagliato": "ciao matteo devo dirti che non posso venire alla festa domani",
+    "corretto": "Ciao Matteo, devo dirti che non posso venire alla festa domani."
+  },
+  {
+    "sbagliato": "ieri sera ho visto un film molto interessante pero il finale non mi ha convinto",
+    "corretto": "Ieri sera ho visto un film molto interessante, però il finale non mi ha convinto."
+  },
+  {
+    "sbagliato": "ho dimenticato di fare i compiti di matematica oggi",
+    "corretto": "Ho dimenticato di fare i compiti di matematica oggi."
+  },
+  {
+    "sbagliato": "stasera vado al cinema con giulia se vuoi puoi venire anche tu",
+    "corretto": "Stasera vado al cinema con Giulia; se vuoi puoi venire anche tu."
+  },
+  {
+    "sbagliato": "mi puoi aiutare con la presentazione che devo fare domani",
+    "corretto": "Mi puoi aiutare con la presentazione che devo fare domani?"
+  },
+  {
+    "sbagliato": "oggi pomeriggio sono molto impegnato quindi non posso parlare",
+    "corretto": "Oggi pomeriggio sono molto impegnato, quindi non posso parlare."
+  },
+  {
+    "sbagliato": "ciao lucia volevo dirti che ho finito il lavoro che mi avevi chiesto",
+    "corretto": "Ciao Lucia, volevo dirti che ho finito il lavoro che mi avevi chiesto."
+  },
+  {
+    "sbagliato": "non riesco a capire come si fa questo esercizio puoi spiegarmelo",
+    "corretto": "Non riesco a capire come si fa questo esercizio; puoi spiegarmelo?"
+  },
+  {
+    "sbagliato": "ieri ho provato a cucinare una torta ma e venuta bruciata",
+    "corretto": "Ieri ho provato a cucinare una torta, ma è venuta bruciata."
+  },
+  {
+    "sbagliato": "stasera voglio guardare un film magari insieme se ti va",
+    "corretto": "Stasera voglio guardare un film, magari insieme, se ti va."
+  },
+  {
+    "sbagliato": "mi puoi dire a che ora ci vediamo domani per favore",
+    "corretto": "Mi puoi dire a che ora ci vediamo domani, per favore?"
+  },
+  {
+    "sbagliato": "oggi non ho voglia di uscire sono troppo stanco",
+    "corretto": "Oggi non ho voglia di uscire; sono troppo stanco."
+  },
+  {
+    "sbagliato": "ciao marco volevo chiederti se hai finito il lavoro che ti ho dato",
+    "corretto": "Ciao Marco, volevo chiederti se hai finito il lavoro che ti ho dato."
+  },
+  {
+    "sbagliato": "ieri non ho potuto rispondere al telefono ero occupato",
+    "corretto": "Ieri non ho potuto rispondere al telefono, ero occupato."
+  },
+  {
+    "sbagliato": "stasera voglio preparare una cena speciale ma non so cosa cucinare",
+    "corretto": "Stasera voglio preparare una cena speciale, ma non so cosa cucinare."
+  },
+  {
+    "sbagliato": "mi puoi aiutare con il compito di italiano per favore",
+    "corretto": "Mi puoi aiutare con il compito di italiano, per favore?"
+  },
+  {
+    "sbagliato": "oggi ho incontrato giulia e mi ha raccontato tante cose interessanti",
+    "corretto": "Oggi ho incontrato Giulia e mi ha raccontato tante cose interessanti."
+  },
+  {
+    "sbagliato": "ho dimenticato di comprare il latte e il pane stamattina",
+    "corretto": "Ho dimenticato di comprare il latte e il pane stamattina."
+  },
+  {
+    "sbagliato": "mi puoi spiegare come funziona questo esercizio non capisco bene",
+    "corretto": "Mi puoi spiegare come funziona questo esercizio? Non capisco bene."
+  },
+  {
+    "sbagliato": "oggi pomeriggio devo andare dal medico quindi non posso venire",
+    "corretto": "Oggi pomeriggio devo andare dal medico, quindi non posso venire."
+  },
+  {
+    "sbagliato": "stasera guardo la partita con marco se vuole venire anche lui",
+    "corretto": "Stasera guardo la partita con Marco, se vuole venire anche lui."
+  },
+  {
+    "sbagliato": "non ho ancora finito il lavoro che mi avevi chiesto ieri",
+    "corretto": "Non ho ancora finito il lavoro che mi avevi chiesto ieri."
+  },
+  {
+    "sbagliato": "ciao ti scrivo per dirti che ho avuto un problema con il computer",
+    "corretto": "Ciao, ti scrivo per dirti che ho avuto un problema con il computer."
+  },
+  {
+    "sbagliato": "ho provato a chiamarti ma non rispondevi quindi ti mando un messaggio",
+    "corretto": "Ho provato a chiamarti, ma non rispondevi; quindi ti mando un messaggio."
+  },
+  {
+    "sbagliato": "oggi sono molto stanco perche ieri sera ho dormito poco",
+    "corretto": "Oggi sono molto stanco perché ieri sera ho dormito poco."
+  },
+  {
+    "sbagliato": "mi dispiace per il ritardo nella risposta ero impegnato tutto il giorno",
+    "corretto": "Mi dispiace per il ritardo nella risposta, ero impegnato tutto il giorno."
+  },
+  {
+    "sbagliato": "stasera voglio cucinare qualcosa di speciale pero non so cosa fare",
+    "corretto": "Stasera voglio cucinare qualcosa di speciale, però non so cosa fare."
+  },
+  {
+    "sbagliato": "ciao anna puoi chiamarmi piu tardi che adesso sono impegnato",
+    "corretto": "Ciao Anna, puoi chiamarmi più tardi? Adesso sono impegnato."
+  },
+  {
+    "sbagliato": "mi dispiace se ieri non ho risposto al messagio ma ero occupato",
+    "corretto": "Mi dispiace se ieri non ho risposto al messaggio, ma ero occupato."
+  },
+  {
+    "sbagliato": "ieri ho provato a cucinare una torta pero e venuta bruciata",
+    "corretto": "Ieri ho provato a cucinare una torta, però è venuta bruciata."
+  },
+  {
+    "sbagliato": "stasera vorrei uscire ma non so se ci sono tutti a casa",
+    "corretto": "Stasera vorrei uscire, ma non so se ci sono tutti a casa."
+  },
+  {
+    "sbagliato": "ho visto il film che mi hai consigliato pero non mi e piaciuto molto",
+    "corretto": "Ho visto il film che mi hai consigliato, però non mi è piaciuto molto."
+  },
+  {
+    "sbagliato": "non so se posso venire domani perche ho gia un appuntamento",
+    "corretto": "Non so se posso venire domani perché ho già un appuntamento."
+  },
+  {
+    "sbagliato": "mi puoi aiutare con i compiti di matematica per favore",
+    "corretto": "Mi puoi aiutare con i compiti di matematica, per favore?"
+  },
+  {
+    "sbagliato": "oggi ho incontrato luigi e mi a detto che sara assente domani",
+    "corretto": "Oggi ho incontrato Luigi e mi ha detto che sarà assente domani."
+  },
+  {
+    "sbagliato": "scusa se ti disturbo ma devo parlarti di una cosa urgente",
+    "corretto": "Scusa se ti disturbo, ma devo parlarti di una cosa urgente."
+  },
+  {
+    "sbagliato": "non ho capito la lezione di oggi e devo rileggere gli appunti",
+    "corretto": "Non ho capito la lezione di oggi e devo rileggere gli appunti."
+  },
+  {
+    "sbagliato": "stasera voglio fare una passeggiata se il tempo lo permette",
+    "corretto": "Stasera voglio fare una passeggiata, se il tempo lo permette."
+  },
+  {
+    "sbagliato": "ciao luca volevo chiederti se hai finito il lavoro che ti ho dato",
+    "corretto": "Ciao Luca, volevo chiederti se hai finito il lavoro che ti ho dato."
+  },
+  {
+    "sbagliato": "ieri non ho potuto rispondere al telefono ero occupato",
+    "corretto": "Ieri non ho potuto rispondere al telefono, ero occupato."
+  },
+  {
+    "sbagliato": "stasera voglio preparare una cena speciale ma non so cosa cucinare",
+    "corretto": "Stasera voglio preparare una cena speciale, ma non so cosa cucinare."
+  },
+  {
+    "sbagliato": "mi puoi aiutare con il compito di italiano per favore",
+    "corretto": "Mi puoi aiutare con il compito di italiano, per favore?"
+  },
+  {
+    "sbagliato": "oggi ho incontrato giulia e mi ha raccontato tante cose interessanti",
+    "corretto": "Oggi ho incontrato Giulia e mi ha raccontato tante cose interessanti."
+  },
+  {
+    "sbagliato": "ho dimenticato di comprare il latte e il pane stamattina",
+    "corretto": "Ho dimenticato di comprare il latte e il pane stamattina."
+  },
+  {
+    "sbagliato": "mi puoi spiegare come funziona questo esercizio non capisco bene",
+    "corretto": "Mi puoi spiegare come funziona questo esercizio? Non capisco bene."
+  },
+  {
+    "sbagliato": "oggi pomeriggio devo andare dal medico quindi non posso venire",
+    "corretto": "Oggi pomeriggio devo andare dal medico, quindi non posso venire."
+  },
+  {
+    "sbagliato": "stasera guardo la partita con marco se vuole venire anche lui",
+    "corretto": "Stasera guardo la partita con Marco, se vuole venire anche lui."
+  },
+  {
+    "sbagliato": "non ho ancora finito il lavoro che mi avevi chiesto ieri",
+    "corretto": "Non ho ancora finito il lavoro che mi avevi chiesto ieri."
+  },
+  {
+    "sbagliato": "ciao ti scrivo per dirti che ho avuto un problema con il computer",
+    "corretto": "Ciao, ti scrivo per dirti che ho avuto un problema con il computer."
+  },
+  {
+    "sbagliato": "ho provato a chiamarti ma non rispondevi quindi ti mando un messaggio",
+    "corretto": "Ho provato a chiamarti, ma non rispondevi; quindi ti mando un messaggio."
+  },
+  {
+    "sbagliato": "oggi sono molto stanco perche ieri sera ho dormito poco",
+    "corretto": "Oggi sono molto stanco perché ieri sera ho dormito poco."
+  }
+]
+
