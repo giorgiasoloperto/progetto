@@ -42,4 +42,25 @@ Corregge:
 
 ### 5. Interfaccia testuale semplice  
 Loop interattivo in cui l’utente inserisce un testo e riceve:
+---VERSIONE CORRETTA---
+...
+
+---CORREZIONI E SPIEGAZIONI---
+...
+
+
+---
+
+## Requisiti
+
+Assicurati di avere:
+
+- Python 3.9+
+- Ollama installato → https://ollama.com/
+- Modello Llama compatibile (es. llama3.2:3b-instruct-q4_0)
+- Dipendenze Python:
+
+```bash
+pip install pyspellchecker ollama
+
 
